@@ -4,7 +4,9 @@ This project implements a deep learning model to classify characters from the po
 ## Dataset
 
 Total Images: 21,924
+
 Number of Classes: 22
+
 Characters: Include main characters from The Simpsons TV show
 
 ## Performance
